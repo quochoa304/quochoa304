@@ -40,7 +40,7 @@
 
 ###
 
-- 🔭 I'm studying at [University Of Greenwich](https://www.gre.ac.uk/)
+- 🔭 I'm a Full-stack developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/quochoa304?tab=repositories](https://github.com/quochoa304?tab=repositories)
 
